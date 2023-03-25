@@ -1,0 +1,12 @@
+.row1{
+    display: flex;
+}
+.col2{
+    width: 900px;
+}
+h1{
+    transition: 1s;
+}
+h1:hover{
+    transform: scale(1.2);
+}
